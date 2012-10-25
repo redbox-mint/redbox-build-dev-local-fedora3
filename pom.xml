@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.googlecode.redbox-mint</groupId>
   <artifactId>redbox-local-curation-fedora3-demo</artifactId>
-  <version>1.5.2-SNAPSHOT</version>
+  <version>1.5.3-SNAPSHOT</version>
   <packaging>${packaging}</packaging>
   <name>ReDBox - Local Curation Fedora 3 Demo</name>
   <parent>
@@ -387,6 +387,7 @@
   <scm>
     <url>https://github.com/redbox-mint/redbox-build-dev-local</url>
     <developerConnection>scm:git:https://github.com/redbox-mint/redbox-build-dev-local.git</developerConnection>
+    <tag>HEAD</tag>
   </scm>
    <distributionManagement>
 		<snapshotRepository>
